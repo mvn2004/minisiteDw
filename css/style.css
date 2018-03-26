@@ -1,0 +1,68 @@
+@charset "utf-8";
+#wrapper {
+	background-color: #FFFFFF;
+	height: 4000px;
+	width: 750px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 25px;
+	margin-left: auto;
+	border: 1px solid #CCCCCC;
+}
+#wrapper p {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+#authorImg {
+	float: left;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.centerContent {
+	text-align: center;
+}
+.testimonial {
+	width: 550px;
+	border: 1px solid #999999;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#wrapper .testimonial p {
+	font-size: 12px;
+}
+#wrapper .testimonial h3 {
+	text-align: center;
+	color: #FF0004;
+}
+.hide {
+	display: none;
+}
+
+.testimonial p img {
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+body {
+	background-image: url(../img/lghtmesh.png);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #333333;
+}
+#wrapper h1 {
+	color: #FF0004;
+	margin-left: 60px;
+	margin-top: 30px;
+	margin-bottom: 25px;
+	margin-right: 60px;
+	text-align: center;
+}
+#wrapper h2 {
+	font-size: 24px;
+	text-align: center;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+}
